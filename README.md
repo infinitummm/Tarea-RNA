@@ -15,14 +15,6 @@ Cada compuerta incluye su **entrenamiento** y una **interfaz interactiva** para 
 
 ---
 
-##  Ejecución
-1. Descargar este repositorio o el archivo `compuertasNeuronales.wl`.
-2. Abrir Mathematica y cargar el archivo.
-3. Ejecutar las celdas.  
-   En cada compuerta aparecerá un **control interactivo** (`Manipulate`) donde puedes elegir entradas `0` o `1`.
-
----
-
 ##  Descripción de la implementación
 
 ###  Compuerta AND
